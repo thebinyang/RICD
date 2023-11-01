@@ -1,6 +1,6 @@
 The pytorch implementation for our published paper  
 [From Trained to Untrained: A Novel Change Detection Framework Using Randomly Initialized Models with Spatial-Channel Augmentation for Hyperspectral Images
-](https://ieeexplore.ieee.org/document/10086615) on [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) 2023.
+](https://ieeexplore.ieee.org/document/10086615) on [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), 2023.
  
 ## Change detection in hyperspectral images (HSIs) using untrained models with feature augmentation strategies
 
